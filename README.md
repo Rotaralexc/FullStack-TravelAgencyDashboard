@@ -1,4 +1,15 @@
+<div align="center">
+  <h3 align="center">Travel Agency Website</h3>
+  <br />
+      <img src="https://github.com/Rotaralexc/FullStack-TravelAgencyDashboard/blob/main/TravelAgency.png" alt="Project Banner">
+  <br />
 
+  <h3 align="center">DEMO</h3>
+
+  https://github.com/user-attachments/assets/23c5f3e2-9554-419b-8146-5955106f1cb4
+
+
+</div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
